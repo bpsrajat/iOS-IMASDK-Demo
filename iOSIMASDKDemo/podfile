@@ -1,0 +1,2 @@
+target 'iOSIMASDKDemo'
+pod 'GoogleAds-IMA-iOS-SDK', '<= 3.10.1'
